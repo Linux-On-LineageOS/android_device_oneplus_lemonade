@@ -74,3 +74,4 @@ $(call inherit-product, device/oneplus/sm8350-common/common.mk)
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/lemonade/lemonade-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
